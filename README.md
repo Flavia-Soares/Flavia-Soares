@@ -5,7 +5,7 @@ Meu nome é Flávia Soares, sou formada em Ciências Contábeis pela Faculdade d
 </h4>
 
  
-- 📚  Atualmente estou em transição de carreira e estudando Desenvolvimento Web Full Stack com ênfase em Front End na Edtech SoulCode Academy.
+- 📚  Atualmente estou em transição de carreira e estudando Desenvolvimento Web Full Stack.
  
 - 💻 JavaScript, HTML5, CSS3 e JQuery.
  
