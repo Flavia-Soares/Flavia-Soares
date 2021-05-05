@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <h4>
-Meu nome é Flávia Soares, sou formada em Ciências Contábeis pela Faculdade de Ciências Humanas de Olinda.
+Meu nome é Flávia Soares, sou formada em Ciências Contábeis pela Faculdade de Ciências Humanas de Olinda. 
 </h4>
 
  
-- 📚  Atualmente estou em transição de carreira e estudando Desenvolvimento Web Full Stack.
+- 📚  Atualmente estou em transição de carreira e estudando Desenvolvimento Web Full Stack com ênfase em Front End na Edtech SoulCode Academy.
  
 - 💻 JavaScript, HTML5, CSS3 e JQuery.
  
